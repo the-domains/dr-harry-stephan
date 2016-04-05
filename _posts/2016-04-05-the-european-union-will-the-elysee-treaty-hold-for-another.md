@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Nationalism as a concept lost ground in the recent past as the idea of the European Union took hold. \_But as we probe the crisis of the EU in the 21st Century, can we honestly argue that nationalism is a dead issue? \_In the period following the Great Depression we witnessed the rise of the Iron Guard in Romania, the Falangist movement \_in Spain and Fascism under Benito Mussolini in Italy. What of Golden Dawn in Greece today, and can we argue with certainty that populists and parties of the right will not dominate politics in Europe again?\_"
-datePublished: '2016-04-05T03:09:40.670Z'
-dateModified: '2016-04-05T03:09:24.965Z'
+datePublished: '2016-04-05T05:47:24.217Z'
+dateModified: '2016-04-05T05:47:18.290Z'
 title: 'The European Union:  Will the Elysee Treaty Hold for another 50 Years?'
 author: []
+sourcePath: _posts/2016-04-05-the-european-union-will-the-elysee-treaty-hold-for-another.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-the-european-union-will-the-elysee-treaty-hold-for-another.md
-published: true
 url: the-european-union-will-the-elysee-treaty-hold-for-another/index.html
 _type: Article
 
