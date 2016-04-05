@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dr. Harry Stephan]]></title>
         <description><![CDATA[Dr. Harry Stephan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dr-harry-stephan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 03:09:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 05:48:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dr-harry-stephan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The European Union:  Will the Elysee Treaty Hold for another 50 Years?]]></title>
             <description><![CDATA[<article><h1>The European Union:  Will the Elysee Treaty Hold for another 50 Years?</h1><p>Nationalism as a concept lost ground in the recent past as the idea of the European Union took hold.  But as we probe the crisis of the EU in the 21st Century, can we honestly argue that nationalism is a dead issue?  In the period following the Great Depression we witnessed the rise of the Iron Guard in Romania, the Falangist movement  in Spain and Fascism under Benito Mussolini in Italy. What of Golden Dawn in Greece today, and can we argue with certainty that populists and parties of the right will not dominate politics in Europe again? </p></article>]]></description>
-            <link>undefinedthe-european-union-will-the-elysee-treaty-hold-for-another/index.html</link>
+            <link>https://thegrid.ai/dr-harry-stephan/the-european-union-will-the-elysee-treaty-hold-for-another/index.html</link>
             <guid isPermaLink="false">408637ae-05a3-4a27-845d-afda8fbdc18b</guid>
-            <pubDate>Tue, 05 Apr 2016 03:09:40 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 05:47:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
