@@ -1,7 +1,7 @@
 name: Dr. Harry Stephan
 favicon: null
-layout_spectrum: 0.34859282174147666
-typography_spectrum: 0.031077071325853467
+layout_spectrum: 0.74585
+typography_spectrum: 1
 title: Dr. Harry Stephan
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.23201836785301566
-  lightness: 0.1468216790817678
-  saturation: 0.22967181913554668
-  rhythmicContrast: 0.8108162707649171
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
