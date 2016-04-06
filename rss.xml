@@ -4,8 +4,15 @@
         <description><![CDATA[Dr. Harry Stephan]]></description>
         <link>https://thegrid.ai/dr-harry-stephan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 03:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 03:52:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dr-harry-stephan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[POl 5032 Week IV]]></title>
+            <description><![CDATA[<h1>POl 5032 Week IV</h1>]]></description>
+            <link>https://thegrid.ai/dr-harry-stephan/pol-5032-week-iv/index.html</link>
+            <guid isPermaLink="false">93a4ca13-df20-4dd5-86fe-f60412fb3cb7</guid>
+            <pubDate>Wed, 06 Apr 2016 03:52:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[POL 5032  Week III]]></title>
             <description><![CDATA[<article><h1>POL 5032  Week III</h1><p>What are the key premises that underpin GATT and now the WTO?  Are multi-lateral trade agreements still applicable within the world trading regime, and if not why not?</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dr-harry-stephan/a7562fec-c31b-4dda-8d27-c6d7a9c37e7c/index.html</link>
             <guid isPermaLink="false">a7562fec-c31b-4dda-8d27-c6d7a9c37e7c</guid>
             <pubDate>Wed, 06 Apr 2016 03:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Households]]></title>
-            <description><![CDATA[<article><h1>Two Households</h1><p>Two households, both alike in dignity………</p></article>]]></description>
-            <link>https://thegrid.ai/dr-harry-stephan/two-households/index.html</link>
-            <guid isPermaLink="false">269f8263-8b59-49da-897c-97a3516082fc</guid>
-            <pubDate>Wed, 06 Apr 2016 03:48:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
